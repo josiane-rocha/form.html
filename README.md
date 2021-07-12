@@ -1,7 +1,7 @@
 # EXEMPLO SIMPLES DE FORMULÁRIO.
 
-## ⚙ Para iniciar o projeto:
-`git clone https://github.com/josiane-rocha/projeto.gama.git
+## ⚙ Para clonar o projeto:
+`git clone https://github.com/josiane-rocha/form.html.git
 
 ## ⚙ Tecnologias utilizadas:
 HTML5 E CSS3
