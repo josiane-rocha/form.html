@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin:50px;
+    font-size: 17;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+.termo {
+    display: inline;
+}
+
+input[type=text] {
+    padding: 5px;
+    width: 500px;
+    font-size: 15px;
+    border:1px solid #CCC
+
+}
+
+input[type=password] {
+    padding: 5px;
+    width: 500px;
+    font-size: 15px;
+    border:1px solid #CCC
+
+}
+
+.categoria {
+    padding: 5px;
+    width: 500px;
+    font-size: 15px;
+    border:1px solid #CCC
+
+}
+
+.descricao {
+    padding: 5px;
+    width: 500px;
+    height: 150px;
+    font-size: 15px;
+    resize: ;
+    border:1px solid #CCC
+
+}
